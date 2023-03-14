@@ -34,18 +34,19 @@ function draw()
 
     // write the code to draw around the Judge's body below
     beginShape();
-    vertex(550, 120);
-    vertex(630, 100);
-    vertex(650, 140);
-    vertex(690, 390);
-    vertex(820, 360);
-    vertex(850, 390);
-    vertex(650, 470);
-    vertex(510, 460);
+    vertex(550, 110);
+    vertex(630, 80);
+    vertex(660, 140);
+    vertex(690, 380);
+    vertex(820, 350);
+    vertex(860, 380);
+    vertex(650, 490);
+    vertex(500, 470);
     vertex(520, 380);
-    vertex(580, 400);
-    vertex(550, 120);
-    
+    vertex(570, 380);
+    vertex(520, 190);
+    vertex(550, 110);
+    //e
     
     
     endShape();
